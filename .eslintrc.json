@@ -1,0 +1,7 @@
+{
+  "extends": "@rocketseat/eslint-config/node",
+  "rules": {
+    "accessor-pairs": "off",
+    "@typescript-eslint/no-empty-interface": "off"
+  }
+}
